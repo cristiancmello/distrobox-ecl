@@ -1,7 +1,7 @@
 # distrobox-ecl
 My Distrobox arch's container for Common LISP / ECL with Wayland, Mesa and NVIDIA driver.
 
-# Build and Run
+## Build and Run
 
 ```sh
 podman build -t distrobox-ecl .
