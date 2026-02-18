@@ -59,3 +59,12 @@ ecl --shell test-ql.lisp
 
 ---------------------------------------
 RESULTADO: Tudo pronto para desenvolver!
+
+---
+
+ecl --shell gtk4-window.lisp 
+;;; Loading #P"/opt/quicklisp/setup.lisp"
+;;; Loading #P"/usr/lib/ecl-24.5.10/asdf.fas"
+;;; Loading #P"/opt/quicklisp/setup.lisp"
+An error occurred during initialization:
+System "cl-gtk4" not found.
